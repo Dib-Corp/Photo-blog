@@ -1,0 +1,80 @@
+
+@font-face {
+  font-family: "Space";
+  src: url("Fonts/Diodia.otf") format("opentype"); 
+}
+
+@font-face {
+  font-family: "Lands";
+  src: url("Fonts/Adventure-Regular.otf") format("opentype"); 
+}
+
+@font-face {
+  font-family: "Automo";
+  src: url("Fonts/NeothericDEMO.ttf") format("truetype"); 
+}
+
+body { 
+ background-color: #231c2e; 
+}
+
+body, html {
+  margin: 0;
+  height: 100%;
+}
+
+.hed{
+ text-align: center;
+}
+
+.select{
+ display: flex;
+ height: 100vh;
+ width: 100vw;    
+}
+
+.select button{
+ flex: 1;
+ color:white;
+ margin: 0.5%;
+ font-size:199%;
+ border: none;
+ height:100%; 
+ background-position:center;
+ background-repeat:no-repeat;
+ background-size:cover;
+ cursor:grab;
+}
+
+#land{
+ font-family: Lands;
+ background-image:url("svgs/landscape.svg");
+ background-color:#242045;
+}
+
+#spa{
+ font-family: Space;
+ background-image:url("svgs/Space-Cover.svg");
+ background-color:#080314;
+}
+
+#auto{
+ font-family: Automo;
+ background-image:url("svgs/Automotive-Cover.svg");
+ background-color:#898983;
+}
+
+#land:hover{
+   font-size: 280%;
+   color:#394520;
+}
+
+#spa:hover{
+   font-size: 280%;
+   color:#9476e8;
+}
+
+#auto:hover{
+   font-size: 280%;
+   color:#EF2E3C;
+}

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="177.37073mm"
+   height="42.282001mm"
+   viewBox="0 0 177.37073 42.282002"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.62488875"
+     inkscape:cx="319.25683"
+     inkscape:cy="350.46238"
+     inkscape:window-width="1593"
+     inkscape:window-height="736"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.496885,-61.199608)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:semi-condensed;font-size:19.9509px;line-height:0;font-family:'InputSansNarrow Nerd Font';-inkscape-font-specification:'InputSansNarrow Nerd Font Ultra-Bold Semi-Condensed';text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;fill:#fafafc;stroke:#fafafc;stroke-width:0.035118;stroke-linecap:square;stroke-dashoffset:29.6323;paint-order:stroke markers fill"
+       x="14.755125"
+       y="103.09365"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.035118"
+         x="14.755125"
+         y="103.09365">PHOTO GALLERY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.5803px;line-height:0;font-family:Bungee;-inkscape-font-specification:Bungee;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;fill:#9999ff;fill-opacity:1;stroke:#fafafc;stroke-width:0.029185;stroke-linecap:square;stroke-dashoffset:29.6323;paint-order:stroke markers fill"
+       x="15.014424"
+       y="82.753426"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#9999ff;fill-opacity:1;stroke-width:0.029185"
+         x="15.014424"
+         y="82.753426">DIBBLES</tspan></text>
+    <path
+       id="rect3"
+       style="fill:#121212;fill-opacity:1;stroke-width:3.033;stroke-linecap:square;stroke-dashoffset:29.6323;paint-order:stroke markers fill"
+       d="m 109.03283,65.010286 h 6.90388 l 2.33251,3.440196 h -11.11448 z"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:3.18719;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:29.6323;paint-order:stroke markers fill"
+       id="rect2"
+       width="28.143145"
+       height="17.36492"
+       x="98.4907"
+       y="67.853729"
+       ry="3.1125798" />
+    <circle
+       style="fill:#2b2b2b;fill-opacity:1;stroke:none;stroke-width:3.033;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:29.6323;paint-order:stroke markers fill"
+       id="path2"
+       cx="112.71198"
+       cy="76.536186"
+       r="6.0627522" />
+    <circle
+       style="fill:#b1b1b1;fill-opacity:1;stroke:none;stroke-width:1.83478;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:29.6323;paint-order:stroke markers fill"
+       id="circle2"
+       cx="112.71198"
+       cy="76.536186"
+       r="3.6675909" />
+  </g>
+</svg>
